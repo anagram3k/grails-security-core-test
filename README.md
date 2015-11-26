@@ -1,0 +1,1 @@
+# grails-security-core-test
